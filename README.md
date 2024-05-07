@@ -14,7 +14,7 @@ including advanced options like joining tables for comprehensive channel informa
 5. Plotly
 6. Pandas
 
-## Approach
+## Approach  
 
 1. Start by establishing a connection to the YouTube API V3, which allows me to retrieve channel and video data by utilizing the Google API client library for Python. 
 
